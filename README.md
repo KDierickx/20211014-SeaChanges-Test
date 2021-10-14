@@ -35,6 +35,7 @@ for coding functions: use `ticks` to create a block
 tables can be created using colons
 
 | title | 1 | 2 |
+|---|---|---|
 | A | alfa | beta |
 |B | gamma | delta | 
 
